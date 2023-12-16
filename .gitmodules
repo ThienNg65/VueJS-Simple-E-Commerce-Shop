@@ -1,0 +1,6 @@
+[submodule "fsv-front-end"]
+	path = fsv-front-end
+	url = https://github.com/ThienNg65/fsv-front-end.git
+[submodule "fsv-back-end"]
+	path = fsv-back-end
+	url = https://github.com/ThienNg65/fsv-back-end.git
